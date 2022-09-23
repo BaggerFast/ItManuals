@@ -1,0 +1,15 @@
+# replace some info !!!
+
+[Unit]
+Description=Service description
+After=network.target
+
+[Service]
+User=your username
+Environment="TOKEN=your bot token"
+WorkingDirectory=/path/to/your/project/directory
+ExecStart=/path/to/your/project/directory/venv/bin/python run.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
