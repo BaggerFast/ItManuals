@@ -5,7 +5,7 @@ This environment doesn't have access to global libraries.
 
 ### In console
 ````
-python (or python3) -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ````
 
