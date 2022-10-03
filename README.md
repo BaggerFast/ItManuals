@@ -5,5 +5,6 @@
 - **Linux:**
   - [Linux Setup](markdown/deb_setup/deb_setup.md)
   - [Ssh](markdown/deb_setup/ssh.md)
+  - [WireGuard](markdown/wireguard.md)
   - [Services Manager (systemd)](markdown/systemd.md)
   - [Deploy bots](markdown/deploy_tg_bot.md)
