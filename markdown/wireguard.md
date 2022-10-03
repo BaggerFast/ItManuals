@@ -1,6 +1,6 @@
 # WireGuard Vpn Setup
 
-####[Download app](https://www.wireguard.com/install/)
+###[Download app](https://www.wireguard.com/install/)
 
 1. Buy VPS Server, which has ip in other country
 2. Connect via Ssh
