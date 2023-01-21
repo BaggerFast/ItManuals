@@ -19,4 +19,8 @@ timedatectl set-timezone Europe/Moscow
 ```
 dpkg-reconfigure locales
 ```
-6. [Ssh setup](ssh.md)
+6. Remove unused pakages
+```
+sudo apt-get autoremove
+```
+7. [Ssh setup](ssh.md)
