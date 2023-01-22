@@ -1,5 +1,6 @@
 # ItManuals
-
+- **Other**
+  - [Git aliases](markdown/git_aliases.md)
 - **Python:**
   - [Virtualenv](markdown/venv.md)
 - **Linux:**
