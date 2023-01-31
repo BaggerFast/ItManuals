@@ -1,11 +1,12 @@
 # ItManuals
 - **Git**
-  - [Git aliases](markdown/git/aliases.md)
+  - [Aliases](git/aliases.md)
+  - [Commit style](git/commits.md)
 - **Python:**
-  - [Virtualenv](markdown/python/venv.md)
+  - [Venv](python/venv.md)
 - **Linux:**
-  - [Linux Setup](markdown/linux/deb_setup/deb_setup.md)
-  - [Ssh](markdown/linux/deb_setup/ssh.md)
-  - [WireGuard](markdown/linux/wireguard.md)
-  - [Services Manager (systemd)](markdown/linux/systemd.md)
-  - [Deploy bots](markdown/linux/deploy_tg_bot.md)
+  - [Debian Setup](linux/debian/setup.md)
+  - [Ssh](linux/debian/ssh.md)
+  - [WireGuard](linux/wireguard.md)
+  - [Services Manager (systemd)](linux/systemd.md)
+  - [Deploy bots](linux/deploy_tg_bot.md)

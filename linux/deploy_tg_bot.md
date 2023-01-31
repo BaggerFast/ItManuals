@@ -22,7 +22,7 @@ They are usually loaded when the system boots.
     sudo touch your-service-name.service
     ```
 2. Edit Linux Service  
-   [insert this template](../../templates/bot.service)
+   [insert this template](../templates/bot.service)
    ```
    sudo nano your-service-name.service
    ```
