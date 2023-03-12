@@ -1,0 +1,17 @@
+# Microsoft docker-compose
+# default user: SA
+#https://hub.docker.com/_/microsoft-mssql-server
+version: "3"
+services:
+  mssql-dev:
+    container_name: mssql-dev
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    restart: unless-stopped
+    ports:
+      - "1433:1433"
+    volumes:
+      - "/etc/ms_data/:/var/lib/mssqlql/data"
+    environment:
+      MSSQL_PID: "Developer"
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "root"

@@ -23,4 +23,4 @@ dpkg-reconfigure locales
 ```
 sudo apt-get autoremove
 ```
-7. [Ssh setup](ssh.md)
+7. [Ssh setup](Ssh.md)

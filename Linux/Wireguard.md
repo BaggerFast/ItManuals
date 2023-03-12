@@ -4,7 +4,7 @@
 
 1. Buy VPS Server, **which has ip in other country**
 2. Connect via **ssh**
-3. [Configure linux](debian/setup.md)
+3. [Configure linux](Debian/Setup.md)
 4. Install packages (Ubuntu/Debian)
 ```
 sudo apt-get install curl

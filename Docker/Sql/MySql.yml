@@ -1,0 +1,15 @@
+# mysql docker-compose
+#https://hub.docker.com/_/mysql
+version: "3"
+services:
+  mysql-dev:
+    container_name: mysql-dev
+    image: mysql
+    restart: unless-stopped
+    ports:
+      - "3306:3306"
+    volumes:
+      - "/etc/my_data/:/var/lib/mysql"
+    environment:
+      MYSQL_DATABASE: 'root'
+      MSSQL_SA_PASSWORD: "root"
