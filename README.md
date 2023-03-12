@@ -5,6 +5,7 @@
 - **Python:**
   - [Venv](Python/Venv.md)
 - **Linux:**
+  - [Mount Usb Drive](Linux/MountUsb.md)
   - [Debian Setup](Linux/Debian/Setup.md)
   - [Ssh](Linux/Debian/Ssh.md)
   - [WireGuard](Linux/Wireguard.md)
