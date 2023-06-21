@@ -14,7 +14,8 @@ git config --global alias.st "status"
 git config --global alias.main "checkout -b main"
 git config --global alias.dev "checkout -b develop"
 
-git config --global alias.aliases "config --get-regexp ^alias" 
+git config --global alias.aliases "config --get-regexp ^alias"
+git config --global alias.clog "shortlog -sn"
 ```
 2. Delete aliases 
 ```
