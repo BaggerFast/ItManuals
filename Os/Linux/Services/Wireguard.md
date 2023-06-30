@@ -4,21 +4,21 @@
 
 1. Buy VPS Server, **which has ip in other country**
 2. Connect via **ssh**
-3. [Configure linux](Debian/Setup.md)
+3. [Configure linux](../Debian/README.md)
 4. Install packages (Ubuntu/Debian)
-```
-sudo apt-get install curl
-```
+    ```bash
+    sudo apt-get install curl
+    ```
 5. Setup wireguard via PiVpn
-```
-curl -L https://install.pivpn.io | bash
-```
+    ```bash
+    curl -L https://install.pivpn.io | bash
+    ```
 6. Add new user
-```
-pivpn add
-```
+    ```bash
+    pivpn add    
+    ```
 7. Help
-```
-pivpn --help
-```
+    ```bash
+    pivpn --help
+    ```
 **Important: 1 device = 1 config**

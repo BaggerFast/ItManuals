@@ -1,13 +1,13 @@
 # ItManuals
 - **Git**
-  - [Aliases](Git/Aliases.md)
-  - [Commit style](Git/Commits.md)
+  - [Aliases](Tech/Git/Aliases.md)
+  - [Commit style](Tech/Git/Commits.md)
 - **Python:**
-  - [Venv](Python/Venv.md)
+  - [Venv](Lang/Python/README.md)
 - **Linux:**
-  - [Mount Usb Drive](Linux/MountUsb.md)
-  - [Debian Setup](Linux/Debian/Setup.md)
-  - [Ssh](Linux/Debian/Ssh.md)
-  - [WireGuard](Linux/Wireguard.md)
-  - [Services Manager (systemd)](Linux/Systemd.md)
-  - [Deploy bots](Linux/DeployTgBot.md)
+  - [Mount Usb Drive](Os/Linux/System/MountUsb.md)
+  - [Debian Setup](Os/Linux/Debian/README.md)
+  - [Ssh](Os/Linux/Debian/Ssh.md)
+  - [WireGuard](Os/Linux/Services/Wireguard.md)
+  - [Services Manager (systemd)](Os/Linux/System/Systemd.md)
+  - [Deploy bots](Os/Linux/Deploy/TgBotService.md)
