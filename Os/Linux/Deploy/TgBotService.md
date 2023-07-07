@@ -8,7 +8,7 @@ All actions are suitable only for Os Linux and was tested on Debian, Ubuntu
 
 ## Project setup
 1. ```cd path/to/project/directory```
-2. [Create virtual venv](../../../Lang/Python/README.md)
+2. [Create virtual venv](../../../Langs/Python/README.md)
 3. ```pip install -r requirements.txt```
 
 
