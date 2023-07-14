@@ -9,7 +9,7 @@
     ```
 3. Install packages
     ```bash
-    sudo apt-get install -y tmux htop exa nvim git curl wget make unzip zip gcc build-essential make locales
+    sudo apt-get install -y btop tmux exa nvim git curl wget make unzip zip gcc build-essential make locales
     ```
 4. Set time-zone
     ```bash
